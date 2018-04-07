@@ -1,0 +1,16 @@
+import turtle
+turtle.setup(650,350)
+#turtle.penup()
+turtle.seth(-120)
+turtle.fd(78)
+turtle.seth(-60)
+turtle.fd(78)
+turtle.seth(60)
+turtle.fd(78)
+turtle.seth(120)
+turtle.fd(78)
+turtle.seth(-90)
+turtle.fd(139)
+#turtle.pendown
+turtle.pensize(24)
+turtle.pencolor("pink")
